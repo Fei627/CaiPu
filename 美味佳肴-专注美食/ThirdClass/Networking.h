@@ -2,8 +2,8 @@
 //  Networking.h
 //  UI_Lesson_19(异步下载)
 //
-//  Created by lanou3g on 15/6/16.
-//  Copyright (c) 2015年 lanou3g. All rights reserved.
+//  Created by JLItem on 15/6/16.
+//  Copyright (c) 2015年 JLItem. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
